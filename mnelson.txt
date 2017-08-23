@@ -1,5 +1,9 @@
 asdasdas
+<<<<<<< HEAD
 RRR
 sfsdf
 ff
 IRISHT IMTE
+=======
+POOOOOPPRRRSSSS
+>>>>>>> master
